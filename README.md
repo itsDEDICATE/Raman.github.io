@@ -33,6 +33,5 @@ This is an interactive Excel dashboard that visualizes bike purchase behavior ba
 
 📊 **Features Used**: Slicers, PivotTables, Power Pivot, Charts
 
-📁 [Download the Excel Dashboard]([./Bike_Sales_Dashboard.xlsx](https://github.com/itsDEDICATE/Raman.github.io/raw/main/Bike_Sales_Dashboard.xlsx
-))
+📁 [Download the Excel Dashboard](Bike_Sales_Dashboard)
 
