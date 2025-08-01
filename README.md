@@ -1,4 +1,4 @@
-# Raman's Business Analyst Portfolio
+# Shivkant's Business Analyst Portfolio
 
 ## About Me  
 My curiosity for science, technology, and systems started early — not from textbooks, but from a blue robotic cat named Doraemon. Watching him introduce concepts like time travel, space, and futuristic gadgets planted the first seeds of imagination that later grew into my passion for data, logic, and tech.
