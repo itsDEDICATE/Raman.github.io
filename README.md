@@ -10,18 +10,6 @@ My curiosity for science, technology, and systems started early — not from tex
 - Communication and Documentation  
 
 ## Projects  
-### Inventory Process Improvement  
-- Analyzed and mapped inventory processes for a retail store.  
-- Identified bottlenecks and recommended automation using Excel formulas.  
-
-### Customer Feedback Analysis  
-- Collected and categorized customer feedback data.  
-- Prioritized key issues to improve customer satisfaction.
-
-## Contact  
-- Email: shivkant.raman@gmail.com  
-- LinkedIn: [(https://www.linkedin.com/in/shivkant-pal/)](https://www.linkedin.com/in/shivkant-pal/)
-
 ## 🚴‍♂️ Excel Dashboard Project – Bike Sales Analysis
 
 This is an interactive Excel dashboard that visualizes bike purchase behavior based on:
@@ -35,4 +23,15 @@ This is an interactive Excel dashboard that visualizes bike purchase behavior ba
 
 📁 [Download the Excel Dashboard](https://github.com/itsDEDICATE/Raman.github.io/raw/main/Bike_Sales_Dashboard.xlsx)
 
+### Inventory Process Improvement  
+- Analyzed and mapped inventory processes for a retail store.  
+- Identified bottlenecks and recommended automation using Excel formulas.  
+
+### Customer Feedback Analysis  
+- Collected and categorized customer feedback data.  
+- Prioritized key issues to improve customer satisfaction.
+
+## Contact  
+- Email: shivkant.raman@gmail.com  
+- LinkedIn: [(https://www.linkedin.com/in/shivkant-pal/)](https://www.linkedin.com/in/shivkant-pal/)
 
