@@ -21,3 +21,17 @@ My curiosity for science, technology, and systems started early — not from tex
 ## Contact  
 - Email: shivkant.raman@gmail.com  
 - LinkedIn: [(https://www.linkedin.com/in/shivkant-pal/)](https://www.linkedin.com/in/shivkant-pal/)
+
+## 🚴‍♂️ Excel Dashboard Project – Bike Sales Analysis
+
+This is an interactive Excel dashboard that visualizes bike purchase behavior based on:
+- Marital Status
+- Education
+- Region
+- Commute Distance
+- Age & Income vs Purchase Decision
+
+📊 **Features Used**: Slicers, PivotTables, Power Pivot, Charts
+
+📁 [Download the Excel Dashboard](./Bike_Sales_Dashboard.xlsx)
+
